@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sankey08
-- 👀 I’m interested in Web Development and Software Enineering
+- 👀 I’m interested in Web Development and Software Engineering
 - 🌱 I’m currently learning many things :<)
 - 📫 How to reach me ...
 https://www.linkedin.com/in/sanketwadje08/
